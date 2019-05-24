@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1288bd4b-d4ee-4b80-bc97-ae2f138b7508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/Buffered/BufferedReaderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/Buffered/BufferedWriterDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/Buffered/CopyTestByBuf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/Buffered/myBufferedReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/Buffered/myBufferedReaderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/ExceptionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/File/FileDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/File/FileDemo2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/File/FileDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/File/FileDemo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/File/removeDir.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/LineNumberReaderDemo/MyLineNumberDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/LineNumberReaderDemo/MyLineNumberReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/LineNumberReaderDemo/MyLineNumberReaderEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/META-INF/IOLearn.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/ReadIn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/SystemInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/CopyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileReader/FileReaderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileReader/FileReaderDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileReader/FileReaderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileWriter/FileWriteDemo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileWriter/FileWriterDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileWriter/FileWriterDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字节流/CopyMp3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字节流/CopyPic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字节流/FileStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/流转换以及操作规律/TransStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/流转换以及操作规律/操作规律.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/装饰设计模式/SupperPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/装饰设计模式/person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/装饰设计模式/personDemo.class" afterDir="false" />
-    </list>
+    <list default="true" id="1288bd4b-d4ee-4b80-bc97-ae2f138b7508" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +91,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IOLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -249,7 +225,7 @@
       <workItem from="1558572821032" duration="7704000" />
       <workItem from="1558590288404" duration="2945000" />
       <workItem from="1558659324078" duration="8006000" />
-      <workItem from="1558697975923" duration="4604000" />
+      <workItem from="1558697975923" duration="4874000" />
     </task>
     <task id="LOCAL-00001" summary="IO  Test">
       <created>1558701002589</created>
@@ -258,16 +234,23 @@
       <option name="project" value="LOCAL" />
       <updated>1558701002589</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="IO  Test">
+      <created>1558703259345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558703259345</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67468000" />
+    <option name="totallyTimeSpent" value="67738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="432" y="0" width="1104" height="872" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21797323" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21797323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -282,7 +265,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
