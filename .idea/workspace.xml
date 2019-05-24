@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1288bd4b-d4ee-4b80-bc97-ae2f138b7508" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/Buffered/BufferedReaderDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/Buffered/BufferedWriterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/Buffered/CopyTestByBuf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/Buffered/myBufferedReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/Buffered/myBufferedReaderDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/ExceptionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/File/FileDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/File/FileDemo2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/File/FileDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/File/FileDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/File/removeDir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/LineNumberReaderDemo/MyLineNumberDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/LineNumberReaderDemo/MyLineNumberReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/LineNumberReaderDemo/MyLineNumberReaderEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/META-INF/IOLearn.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/ReadIn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/SystemInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/CopyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileReader/FileReaderDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileReader/FileReaderDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileReader/FileReaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileWriter/FileWriteDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileWriter/FileWriterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字符流/FileWriter/FileWriterDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字节流/CopyMp3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字节流/CopyPic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/字节流/FileStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/流转换以及操作规律/TransStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/流转换以及操作规律/操作规律.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/装饰设计模式/SupperPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/装饰设计模式/person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IOLearn/装饰设计模式/personDemo.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/File/removeDir.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="BinglieWang" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/FileWriterDemo2.java" />
+        <option value="$PROJECT_DIR$/src/FileWriteDemo3.java" />
+        <option value="$PROJECT_DIR$/src/FileWriterDemo.java" />
+        <option value="$PROJECT_DIR$/src/FileReaderDemo.java" />
+        <option value="$PROJECT_DIR$/src/FileReaderDemo2.java" />
+        <option value="$PROJECT_DIR$/src/FileReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/CopyTest.java" />
+        <option value="$PROJECT_DIR$/src/BufferedWriterDemo.java" />
+        <option value="$PROJECT_DIR$/src/BufferedReaderDemo.java" />
+        <option value="$PROJECT_DIR$/src/Buffered/BufferedReaderDemo.java" />
+        <option value="$PROJECT_DIR$/src/Buffered/CopyTestByBuf.java" />
+        <option value="$PROJECT_DIR$/src/Buffered/myBufferedReaderDemo.java" />
+        <option value="$PROJECT_DIR$/src/装饰设计模式/person.java" />
+        <option value="$PROJECT_DIR$/src/装饰设计模式/personDemo.java" />
+        <option value="$PROJECT_DIR$/src/LineNumberReaderDemo/MyLineNumberDemo.java" />
+        <option value="$PROJECT_DIR$/src/LineNumberReaderDemo/MyLineNumberReaderEx.java" />
+        <option value="$PROJECT_DIR$/src/FileStream.java" />
+        <option value="$PROJECT_DIR$/src/字节流/CopyPic.java" />
+        <option value="$PROJECT_DIR$/src/字节流/CopyMp3.java" />
+        <option value="$PROJECT_DIR$/src/TransStreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/装饰设计模式/TransStreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/字符流/CopyTest.java" />
+        <option value="$PROJECT_DIR$/src/流转换以及操作规律/TransStreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/ReadIn.java" />
+        <option value="$PROJECT_DIR$/src/字节流/FileStream.java" />
+        <option value="$PROJECT_DIR$/src/流转换以及操作规律/操作规律.java" />
+        <option value="$PROJECT_DIR$/src/ExceptionInfo.java" />
+        <option value="$PROJECT_DIR$/src/SystemInfo.java" />
+        <option value="$PROJECT_DIR$/src/File/FileDemo2.java" />
+        <option value="$PROJECT_DIR$/src/File/FileDemo3.java" />
+        <option value="$PROJECT_DIR$/src/File/FileDemo.java" />
+        <option value="$PROJECT_DIR$/src/File/removeDir.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="540" />
+    <option name="width" value="1380" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.removeDir">
+    <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.FileDemo" />
+      <module name="IOLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.FileDemo2" />
+      <module name="IOLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.FileDemo3" />
+      <module name="IOLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystemInfo" />
+      <module name="IOLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeDir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.removeDir" />
+      <module name="IOLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SystemInfo" />
+      <item itemvalue="Application.FileDemo" />
+      <item itemvalue="Application.FileDemo2" />
+      <item itemvalue="Application.FileDemo3" />
+      <item itemvalue="Application.removeDir" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.removeDir" />
+        <item itemvalue="Application.FileDemo3" />
+        <item itemvalue="Application.FileDemo2" />
+        <item itemvalue="Application.FileDemo" />
+        <item itemvalue="Application.SystemInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1288bd4b-d4ee-4b80-bc97-ae2f138b7508" name="Default Changelist" comment="" />
+      <created>1558229546152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558229546152</updated>
+      <workItem from="1558229548102" duration="8229000" />
+      <workItem from="1558252163450" duration="6879000" />
+      <workItem from="1558400879647" duration="3419000" />
+      <workItem from="1558426645762" duration="1762000" />
+      <workItem from="1558432883646" duration="6844000" />
+      <workItem from="1558485400134" duration="647000" />
+      <workItem from="1558490760115" duration="4865000" />
+      <workItem from="1558507376480" duration="7039000" />
+      <workItem from="1558525894005" duration="4013000" />
+      <workItem from="1558549372790" duration="512000" />
+      <workItem from="1558572821032" duration="7704000" />
+      <workItem from="1558590288404" duration="2945000" />
+      <workItem from="1558659324078" duration="8006000" />
+      <workItem from="1558697975923" duration="4604000" />
+    </task>
+    <task id="LOCAL-00001" summary="IO  Test">
+      <created>1558701002589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558701002589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67468000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="432" y="0" width="1104" height="872" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21797323" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1801676" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.08926081" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3282123" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IO  Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="IO  Test" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/装饰设计模式/personDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Buffered/BufferedReaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Buffered/myBufferedReaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LineNumberReaderDemo/MyLineNumberReaderEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LineNumberReaderDemo/MyLineNumberDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Buffered/CopyTestByBuf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Buffered/BufferedWriterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字节流/CopyPic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字符流/FileWriter/FileWriterDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字符流/FileWriter/FileWriterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字节流/FileStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字符流/CopyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReadIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字符流/FileWriter/FileWriteDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字符流/FileReader/FileReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字符流/FileReader/FileReaderDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字符流/FileReader/FileReaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="66" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字节流/CopyMp3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="72" lean-forward="true" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/流转换以及操作规律/操作规律.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/流转换以及操作规律/TransStreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExceptionInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/File/FileDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/File/FileDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/File/FileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Method_02#0;class#FileDemo#0" />
+            <element signature="method#Method_03#0;class#FileDemo#0" />
+            <element signature="method#consMethod#0;class#FileDemo#0" />
+            <element signature="method#Method_04#0;class#FileDemo#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/File/removeDir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
