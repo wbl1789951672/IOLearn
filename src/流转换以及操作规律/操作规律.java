@@ -11,7 +11,7 @@ public class 操作规律 {
     * 通过三个明确来确定：
     * 1.明确源和目的
     *   源：输入流，InputStream   Reader
-    *   目的：输出流，OutputStream  Writer
+    *   目的：打印流，OutputStream  Writer
     * 2.操作的数据是否是纯文本
     *   是：字符流
     *   不是：字节流
